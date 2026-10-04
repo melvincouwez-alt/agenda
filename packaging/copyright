@@ -1,0 +1,18 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Agenda
+Upstream-Contact: melvincouwez-alt <301110918+melvincouwez-alt@users.noreply.github.com>
+Source: https://github.com/melvincouwez-alt/agenda
+Comment: Apple, iPhone and iCloud are trademarks of Apple Inc. Agenda is not
+ affiliated with or endorsed by Apple.
+
+Files: *
+Copyright: 2026 melvincouwez-alt
+License: GPL-3.0-or-later
+ On Debian systems, the full text of the GNU General Public License version 3
+ is in /usr/share/common-licenses/GPL-3.
+
+Files: usr/share/icons/hicolor/*/apps/io.github.melvincouwez.Agenda.svg
+Copyright: 2026 melvincouwez-alt
+License: GPL-3.0-or-later
+Comment: The text of the icon is converted to outlines from Inter Display by
+ Rasmus Andersson (https://github.com/rsms/inter), SIL Open Font License 1.1.

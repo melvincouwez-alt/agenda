@@ -12,7 +12,7 @@ namespace Agenda {
             program_name = "Agenda",
             logo_icon_name = Config.APP_ID,
             version = Config.VERSION,
-            comments = _("L'agenda de Covalence : vos agendas iCloud et ceux de ce PC.\n"
+            comments = _("L'agenda de Boomerang : vos agendas iCloud et ceux de ce PC.\n"
                        + "Projet libre, non affilié à Apple Inc."),
             copyright = _("© 2026 melvincouwez-alt"),
             authors = { "melvincouwez-alt" },

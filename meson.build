@@ -1,7 +1,7 @@
 # SPDX-License-Identifier: GPL-3.0-or-later
 # SPDX-FileCopyrightText: 2026 melvincouwez-alt
 project('io.github.melvincouwez.Agenda', 'vala', 'c',
-  version: '0.1.1',
+  version: '0.1.2',
   license: 'GPL-3.0-or-later',
   meson_version: '>= 1.0',
 )
@@ -15,7 +15,7 @@ conf.set('APP_ID', app_id)
 conf.set('VERSION', meson.project_version())
 conf.set('BINDIR', prefix / get_option('bindir'))
 
-# Interface texts are written in French, like Covalence's.
+# Interface texts are written in French, like Boomerang's.
 add_project_arguments('-DGETTEXT_PACKAGE="agenda"', '-DLIBICAL_GLIB_UNSTABLE_API=1', language: 'c')
 
 subdir('src')

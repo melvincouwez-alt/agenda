@@ -9,8 +9,8 @@
   <summary>Your iCloud calendars on elementary OS</summary>
   <summary xml:lang="fr">Vos agendas iCloud sur elementary OS</summary>
   <description>
-    <p>Covalence's calendar: the calendars of your Apple account and the ones on this PC, by month or as a list of what is coming, with events you can add, change and delete. Changes reach the iPhone and iCloud.com.</p>
-    <p xml:lang="fr">L'agenda de Covalence : les agendas de votre compte Apple et ceux de ce PC, par mois ou en liste de ce qui arrive, avec des évènements à ajouter, modifier et supprimer. Les changements arrivent sur l'iPhone et sur iCloud.com.</p>
+    <p>Boomerang's calendar: the calendars of your Apple account and the ones on this PC, by month or as a list of what is coming, with events you can add, change and delete. Changes reach the iPhone and iCloud.com.</p>
+    <p xml:lang="fr">L'agenda de Boomerang : les agendas de votre compte Apple et ceux de ce PC, par mois ou en liste de ce qui arrive, avec des évènements à ajouter, modifier et supprimer. Les changements arrivent sur l'iPhone et sur iCloud.com.</p>
     <p>Apple, iPhone and iCloud are trademarks of Apple Inc. Agenda is not affiliated with or endorsed by Apple.</p>
     <p xml:lang="fr">Apple, iPhone et iCloud sont des marques d'Apple Inc. Agenda n'est ni affilié à Apple ni approuvé par Apple.</p>
   </description>
@@ -21,6 +21,7 @@
   <url type="vcs-browser">https://github.com/melvincouwez-alt/agenda</url>
   <content_rating type="oars-1.1"/>
   <releases>
+    <release version="0.1.2" date="2026-10-04"><description><p>Covalence is now called Boomerang: texts and links follow.</p></description></release>
     <release version="0.1.1" date="2026-10-04"><description><p>Own repository and releases; credits and AppStream data completed.</p></description></release>
     <release version="0.1.0" date="2026-09-28"><description><p>First version.</p></description></release>
   </releases>

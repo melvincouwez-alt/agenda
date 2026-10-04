@@ -2,7 +2,7 @@
 // SPDX-FileCopyrightText: 2026 melvincouwez-alt
 /*
  * Calendars and events, through Evolution Data Server. EDS already carries the
- * iCloud calendars Covalence sets up (CalDAV) and the ones on this PC, and keeps
+ * iCloud calendars Boomerang sets up (CalDAV) and the ones on this PC, and keeps
  * them in sync; Agenda reads and writes through it like elementary's Calendar,
  * so an event added here shows up in Calendar, on the iPhone and on iCloud.com.
  */

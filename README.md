@@ -1,6 +1,6 @@
 # Agenda
 
-Agenda est l'agenda de [Covalence](https://github.com/melvincouwez-alt/covalence) pour elementary OS : les agendas de votre compte iCloud et ceux de ce PC, dans une fenêtre elementary. Il passe par Evolution Data Server, qui synchronise les agendas iCloud en CalDAV. Les changements arrivent donc sur l'iPhone et sur iCloud.com.
+Agenda est l'agenda de [Boomerang](https://github.com/melvincouwez-alt/boomerang) pour elementary OS : les agendas de votre compte iCloud et ceux de ce PC, dans une fenêtre elementary. Il passe par Evolution Data Server, qui synchronise les agendas iCloud en CalDAV. Les changements arrivent donc sur l'iPhone et sur iCloud.com.
 
 Trois dispositions, au choix dans la barre d'en-tête :
 
@@ -12,13 +12,13 @@ Agenda ouvre aussi les fichiers `.ics` pour en ajouter les évènements à un ag
 
 ## Installer
 
-Le paquet `agenda_<version>_amd64.deb` est publié dans les [versions de ce dépôt](https://github.com/melvincouwez-alt/agenda/releases). Covalence l'installe depuis son onglet « Services Apple ». Pour installer le paquet à la main, téléchargez-le puis :
+Le paquet `agenda_<version>_amd64.deb` est publié dans les [versions de ce dépôt](https://github.com/melvincouwez-alt/agenda/releases). Boomerang l'installe depuis son onglet « Services Apple ». Pour installer le paquet à la main, téléchargez-le puis :
 
 ```sh
 sudo apt install ./agenda_*_amd64.deb
 ```
 
-Le compte iCloud s'ajoute dans Réglages système › Comptes en ligne, ou depuis Covalence.
+Le compte iCloud s'ajoute dans Réglages système › Comptes en ligne, ou depuis Boomerang.
 
 ## Construire
 

@@ -59,7 +59,7 @@ public class Agenda.CalendarList : Gtk.Box {
                         .printf (css_name, calendar.color));
         }
         if (list.get_first_child () == null) {
-            var empty = new Gtk.Label (_("Aucun agenda. Connectez iCloud dans Covalence, onglet Services Apple.")) {
+            var empty = new Gtk.Label (_("Aucun agenda. Connectez iCloud dans Boomerang, onglet Services Apple.")) {
                 wrap = true,
                 xalign = 0
             };

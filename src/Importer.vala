@@ -43,7 +43,7 @@ namespace Agenda.Importer {
         }
         if (calendars.size == 0) {
             show_error (parent, _("Aucun agenda modifiable"),
-                        _("Connectez votre compte iCloud dans Covalence (Services Apple)."));
+                        _("Connectez votre compte iCloud dans Boomerang (Services Apple)."));
             return;
         }
 

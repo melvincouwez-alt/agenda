@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: GPL-3.0-or-later
 // SPDX-FileCopyrightText: 2026 melvincouwez-alt
 /*
- * Agenda: Covalence's calendar. Your iCloud calendars and the ones on this PC,
+ * Agenda: Boomerang's calendar. Your iCloud calendars and the ones on this PC,
  * through Evolution Data Server, in an elementary window. Opens .ics files too.
  */
 

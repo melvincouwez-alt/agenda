@@ -304,7 +304,7 @@ public class Agenda.MainWindow : Gtk.ApplicationWindow {
         if (store.writable ().size == 0) {
             var dialog = new Granite.MessageDialog.with_image_from_icon_name (
                 _("Aucun agenda modifiable"),
-                _("Connectez votre compte iCloud dans Covalence (Services Apple) ou attendez que vos agendas "
+                _("Connectez votre compte iCloud dans Boomerang (Services Apple) ou attendez que vos agendas "
                   + "aient fini de se charger."),
                 "dialog-information", Gtk.ButtonsType.CLOSE) {
                 transient_for = this,

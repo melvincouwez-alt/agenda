@@ -4,21 +4,21 @@ Agenda est l'agenda de [Boomerang](https://github.com/melvincouwez-alt/boomerang
 
 Trois dispositions, au choix dans la barre d'en-tête :
 
-- **Mois**, avec le panneau du jour et ce qui arrive ensuite ;
-- **Semaine**, sur une grille horaire ;
-- **Fil**, la liste des jours avec un ajout rapide en français (« demain 14h dentiste »).
+- Mois, avec le panneau du jour et ce qui arrive ensuite ;
+- Semaine, sur une grille horaire ;
+- Fil, la liste des jours avec un ajout rapide en français (« demain 14h dentiste »).
 
 Agenda ouvre aussi les fichiers `.ics` pour en ajouter les évènements à un agenda.
 
 ## Installer
 
-Le paquet `agenda_<version>_amd64.deb` est publié dans les [versions de ce dépôt](https://github.com/melvincouwez-alt/agenda/releases). Boomerang l'installe depuis son onglet « Services Apple ». Pour installer le paquet à la main, téléchargez-le puis :
+Le paquet `agenda_<version>_amd64.deb` est publié dans les [versions de ce dépôt](https://github.com/melvincouwez-alt/agenda/releases). Boomerang l'installe depuis son onglet « Services Apple ». Pour l'installer en ligne de commande, téléchargez le paquet puis :
 
 ```sh
 sudo apt install ./agenda_*_amd64.deb
 ```
 
-Le compte iCloud s'ajoute dans Réglages système › Comptes en ligne, ou depuis Boomerang.
+Le compte iCloud s'ajoute dans Paramètres système › Comptes en ligne, ou depuis Boomerang.
 
 ## Construire
 

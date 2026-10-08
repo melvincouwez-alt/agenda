@@ -33,10 +33,10 @@ Recommends: boomerang
 Section: gnome
 Priority: optional
 Homepage: https://github.com/melvincouwez-alt/agenda
-Description: Boomerang's calendar for elementary OS
- Your iCloud calendars and the ones on this PC, through Evolution Data Server:
- month and day panel, week timeline or day feed, events to add, change and
- delete, .ics files to import.
+Description: agenda de Boomerang pour elementary OS
+ Vos agendas iCloud et ceux de ce PC, par Evolution Data Server : mois avec
+ le panneau du jour, semaine sur une grille horaire ou fil des jours.
+ Évènements à ajouter, modifier et supprimer, fichiers .ics à importer.
 CONTROL
 
 mkdir -p "$root/dist"

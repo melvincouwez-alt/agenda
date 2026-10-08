@@ -21,6 +21,7 @@
   <url type="vcs-browser">https://github.com/melvincouwez-alt/agenda</url>
   <content_rating type="oars-1.1"/>
   <releases>
+    <release version="0.1.3" date="2026-10-08"><description><p>New icon: a white desk calendar tile with the weekday in red and a large date, redrawn for each size.</p><p xml:lang="fr">Nouvelle icône : une page d'éphéméride blanche avec le jour en rouge et la date en grand, redessinée pour chaque taille.</p></description></release>
     <release version="0.1.2" date="2026-10-04"><description><p>Covalence is now called Boomerang: texts and links follow.</p></description></release>
     <release version="0.1.1" date="2026-10-04"><description><p>Own repository and releases; credits and AppStream data completed.</p></description></release>
     <release version="0.1.0" date="2026-09-28"><description><p>First version.</p></description></release>

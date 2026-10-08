@@ -1,7 +1,7 @@
 # SPDX-License-Identifier: GPL-3.0-or-later
 # SPDX-FileCopyrightText: 2026 melvincouwez-alt
 project('io.github.melvincouwez.Agenda', 'vala', 'c',
-  version: '0.1.2',
+  version: '0.1.3',
   license: 'GPL-3.0-or-later',
   meson_version: '>= 1.0',
 )

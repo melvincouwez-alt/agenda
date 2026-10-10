@@ -10,7 +10,7 @@
   <summary xml:lang="fr">Vos agendas iCloud sur elementary OS</summary>
   <description>
     <p>Boomerang's calendar: the calendars of your Apple account and the ones on this PC, by month, by week or as a feed of the coming days, with events you can add, change and delete. Changes reach the iPhone and iCloud.com.</p>
-    <p xml:lang="fr">L'agenda de Boomerang : les agendas de votre compte Apple et ceux de ce PC, par mois, par semaine ou en fil des jours à venir, avec des évènements à ajouter, modifier et supprimer. Les changements arrivent sur l'iPhone et sur iCloud.com.</p>
+    <p xml:lang="fr">Agenda est l'agenda de Boomerang. Agenda affiche les agendas de vos comptes iCloud et ceux de ce PC par mois, par semaine ou sous forme de fil des jours à venir. Agenda permet d'ajouter, de modifier et de supprimer des évènements. Les modifications apparaissent aussi sur l'iPhone et sur iCloud.com.</p>
     <p>Apple, iPhone and iCloud are trademarks of Apple Inc. Agenda is not affiliated with or endorsed by Apple.</p>
     <p xml:lang="fr">Apple, iPhone et iCloud sont des marques d'Apple Inc. Agenda n'est ni affilié à Apple ni approuvé par Apple.</p>
   </description>
@@ -23,8 +23,8 @@
   <releases>
     <release version="0.1.4" date="2026-10-08"><description><p>Package description in French, AppStream description and release notes completed.</p><p xml:lang="fr">Description du paquet en français, description AppStream et notes de version complétées.</p></description></release>
     <release version="0.1.3" date="2026-10-08"><description><p>New icon: a white desk calendar tile with the weekday in red and a large date, redrawn for each size.</p><p xml:lang="fr">Nouvelle icône : une page d'éphéméride blanche avec le jour en rouge et la date en grand, redessinée pour chaque taille.</p></description></release>
-    <release version="0.1.2" date="2026-10-04"><description><p>Covalence is now called Boomerang: texts and links follow.</p><p xml:lang="fr">Covalence s'appelle désormais Boomerang : les textes et les liens suivent.</p></description></release>
-    <release version="0.1.1" date="2026-10-04"><description><p>Own repository and releases; credits and AppStream data completed.</p><p xml:lang="fr">Dépôt et versions propres, crédits et données AppStream complétés.</p></description></release>
+    <release version="0.1.2" date="2026-10-04"><description><p>Covalence is now called Boomerang: texts and links follow.</p><p xml:lang="fr">Covalence s'appelle désormais Boomerang : les textes et les liens sont mis à jour en conséquence.</p></description></release>
+    <release version="0.1.1" date="2026-10-04"><description><p>Own repository and releases; credits and AppStream data completed.</p><p xml:lang="fr">Agenda dispose de son propre dépôt et de ses propres versions ; crédits et données AppStream complétés.</p></description></release>
     <release version="0.1.0" date="2026-09-28"><description><p>First version.</p><p xml:lang="fr">Première version.</p></description></release>
   </releases>
 </component>

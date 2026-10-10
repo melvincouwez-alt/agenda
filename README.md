@@ -1,10 +1,10 @@
 # Agenda
 
-Agenda est l'agenda de [Boomerang](https://github.com/melvincouwez-alt/boomerang) pour elementary OS : les agendas de votre compte iCloud et ceux de ce PC, dans une fenêtre elementary. Il passe par Evolution Data Server, qui synchronise les agendas iCloud en CalDAV. Les changements arrivent donc sur l'iPhone et sur iCloud.com.
+Agenda est l'agenda de [Boomerang](https://github.com/melvincouwez-alt/boomerang) pour elementary OS. Agenda affiche les agendas de vos comptes iCloud et ceux de ce PC dans une fenêtre elementary. Agenda s'appuie sur Evolution Data Server, qui synchronise les agendas iCloud en CalDAV. Les modifications apparaissent donc aussi sur l'iPhone et sur iCloud.com.
 
-Trois dispositions, au choix dans la barre d'en-tête :
+La barre d'en-tête propose trois dispositions :
 
-- Mois, avec le panneau du jour et ce qui arrive ensuite ;
+- Mois, avec le panneau du jour et les évènements à venir ;
 - Semaine, sur une grille horaire ;
 - Fil, la liste des jours avec un ajout rapide en français (« demain 14h dentiste »).
 
@@ -12,13 +12,13 @@ Agenda ouvre aussi les fichiers `.ics` pour en ajouter les évènements à un ag
 
 ## Installer
 
-Le paquet `agenda_<version>_amd64.deb` est publié dans les [versions de ce dépôt](https://github.com/melvincouwez-alt/agenda/releases). Boomerang l'installe depuis son onglet « Services Apple ». Pour l'installer en ligne de commande, téléchargez le paquet puis :
+Le paquet `agenda_<version>_amd64.deb` est publié dans les [versions de ce dépôt](https://github.com/melvincouwez-alt/agenda/releases). Boomerang l'installe depuis son onglet « Services Apple ». Pour l'installer en ligne de commande, téléchargez le paquet, puis exécutez :
 
 ```sh
 sudo apt install ./agenda_*_amd64.deb
 ```
 
-Le compte iCloud s'ajoute dans Paramètres système › Comptes en ligne, ou depuis Boomerang.
+Les comptes iCloud s'ajoutent dans Paramètres système › Comptes en ligne, ou depuis Boomerang.
 
 ## Construire
 
@@ -38,7 +38,7 @@ packaging/build-deb.sh   # donne dist/agenda_<version>_amd64.deb
 
 ## Mentions légales
 
-Agenda est un logiciel libre et indépendant. Il n'est ni affilié à Apple Inc. ni approuvé par Apple Inc., ni par elementary, Inc. Apple, iPhone et iCloud sont des marques d'Apple Inc., déposées aux États-Unis et dans d'autres pays. elementary est une marque d'elementary, Inc. Ces noms ne servent qu'à décrire la compatibilité.
+Agenda est un logiciel libre et indépendant. Agenda n'est ni affilié à Apple Inc., ni approuvé par Apple Inc. ou par elementary, Inc. Apple, iPhone et iCloud sont des marques d'Apple Inc., déposées aux États-Unis et dans d'autres pays. elementary est une marque d'elementary, Inc. Ces noms sont cités uniquement pour indiquer la compatibilité.
 
 ## Licence
 
